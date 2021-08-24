@@ -2,8 +2,12 @@
 
 All PDFs are downloaded from the Internet. Taken from the Internet, giving back to the Internet.
 
-### 1. Calculus, Concepts & Contexts by James Stewart.
+### Calculus
 
-### 2. Calculus: Early Transcendental by Maurice D. Weir Thomas
+1. Calculus, Concepts & Contexts by James Stewart.
 
-### 3. Foundations of Data Science by Avrim Blum John Hopcroft Ravindran Kannan
+2. Calculus: Early Transcendental by Maurice D. Weir Thomas
+
+### Data Science
+
+3. Foundations of Data Science by Avrim Blum John Hopcroft Ravindran Kannan
