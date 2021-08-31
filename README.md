@@ -11,3 +11,7 @@ All PDFs are downloaded from the Internet. Taken from the Internet, giving back 
 ### Data Science
 
 3. Foundations of Data Science by Avrim Blum John Hopcroft Ravindran Kannan
+
+### C++
+
+4. Richard L. Halterman (2015). Fundamentals of C++ Programming
