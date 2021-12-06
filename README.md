@@ -2,18 +2,20 @@
 
 All PDFs are downloaded from the Internet. Taken from the Internet, giving back to the Internet.
 
-### Calculus
+### MA1508 Calculus
 
 1.Calculus, Concepts & Contexts - James Stewart
 
 2.Calculus: Early Transcendental - Maurice D. Weir Thomas
 
-### Data Science
+### SDSC1001 Introduction to Data Science
 
 3.Foundations of Data Science - Avrim Blum John Hopcroft Ravindran Kannan
 
-5.Data Science - John D. Kelleher, Brendan Tierney 2018
+4.Data Science (2018) - John D. Kelleher, Brendan Tierney
 
-### C++
+5.Mathematics For Machine Learning-Cambridge University Press (2019) - Marc Peter Deisenroth, A. Aldo Faisal, Cheng Soon Ong
 
-4.Fundamentals of C++ Programming - Richard L. Halterman 2015
+### CS2315 Computer Programming C++
+
+6.Fundamentals of C++ Programming (2015) - Richard L. Halterman
