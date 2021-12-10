@@ -2,6 +2,8 @@
 
 All PDFs are downloaded from the Internet. Taken from the Internet, giving back to the Internet.
 
+## Sem 1
+
 ### MA1508 Calculus
 
 1.Calculus, Concepts & Contexts - James Stewart
@@ -19,3 +21,9 @@ All PDFs are downloaded from the Internet. Taken from the Internet, giving back 
 ### CS2315 Computer Programming C++
 
 6.Fundamentals of C++ Programming (2015) - Richard L. Halterman
+
+## Sem 2
+
+### MA1503 Linear Algebra
+
+7.Linear Algebra And Its Applications (2014) - David C Lay.pdf
